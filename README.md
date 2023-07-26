@@ -1,0 +1,2 @@
+# -Single-Neuron-Gradient-Descent-for-Hobbit-vs.-Elf-Classification
+This project demonstrates the implementation of gradient descent to train a single-neuron perceptron for classifying hobbit vs. elf based on height data. It uses the sigmoid activation function and MSE loss to optimize the weights. The goal is to find the optimal weights that minimize the error between predicted and actual classes.
