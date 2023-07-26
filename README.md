@@ -1,2 +1,2 @@
-# -Single-Neuron-Gradient-Descent-for-Hobbit-vs.-Elf-Classification
+# -Single-Neuron-Gradient-Descent
 The project starts by generating random height data for hobbits and elves. It then initializes the perceptron's weights and calculates the initial Mean Squared Error (MSE). The gradient descent optimization process runs for multiple epochs, with different learning rates. After each epoch, the progress of the optimization is visualized, showing the decision boundary and the class separation.
